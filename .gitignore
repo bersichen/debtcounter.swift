@@ -1,0 +1,4 @@
+.DS_Store
+build/
+*.xcodeproj/project.xcworkspace/xcuserdata/
+Debt_Counter.xcodeproj/xcuserdata
