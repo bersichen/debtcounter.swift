@@ -11,9 +11,9 @@
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
-		45FB70932EFB45760033437A /* Debt_Counter */ = {
+		45FB70932EFB45760033437A /* DebtCounter */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
-			path = Debt_Counter;
+			path = DebtCounter;
 			sourceTree = "<group>";
 		};
 /* End PBXFileSystemSynchronizedRootGroup section */
@@ -32,7 +32,7 @@
 		45FB70882EFB45760033437A = {
 			isa = PBXGroup;
 			children = (
-				45FB70932EFB45760033437A /* Debt_Counter */,
+				45FB70932EFB45760033437A /* DebtCounter */,
 				45FB70922EFB45760033437A /* Products */,
 			);
 			sourceTree = "<group>";
@@ -61,12 +61,12 @@
 			dependencies = (
 			);
 			fileSystemSynchronizedGroups = (
-				45FB70932EFB45760033437A /* Debt_Counter */,
+				45FB70932EFB45760033437A /* DebtCounter */,
 			);
 			name = debtcounter;
 			packageProductDependencies = (
 			);
-			productName = Debt_Counter;
+			productName = DebtCounter;
 			productReference = 45FB70912EFB45760033437A /* debtcounter.app */;
 			productType = "com.apple.product-type.application";
 		};
@@ -85,7 +85,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 45FB708C2EFB45760033437A /* Build configuration list for PBXProject "Debt_Counter" */;
+			buildConfigurationList = 45FB708C2EFB45760033437A /* Build configuration list for PBXProject "DebtCounter" */;
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
 			knownRegions = (
@@ -332,7 +332,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		45FB708C2EFB45760033437A /* Build configuration list for PBXProject "Debt_Counter" */ = {
+		45FB708C2EFB45760033437A /* Build configuration list for PBXProject "DebtCounter" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				45FB709A2EFB45790033437A /* Debug */,

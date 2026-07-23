@@ -18,7 +18,7 @@
                BlueprintIdentifier = "45FB70902EFB45760033437A"
                BuildableName = "debtcounter.app"
                BlueprintName = "debtcounter"
-               ReferencedContainer = "container:Debt_Counter.xcodeproj">
+               ReferencedContainer = "container:DebtCounter.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -48,7 +48,7 @@
             BlueprintIdentifier = "45FB70902EFB45760033437A"
             BuildableName = "debtcounter.app"
             BlueprintName = "debtcounter"
-            ReferencedContainer = "container:Debt_Counter.xcodeproj">
+            ReferencedContainer = "container:DebtCounter.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </LaunchAction>
@@ -65,7 +65,7 @@
             BlueprintIdentifier = "45FB70902EFB45760033437A"
             BuildableName = "debtcounter.app"
             BlueprintName = "debtcounter"
-            ReferencedContainer = "container:Debt_Counter.xcodeproj">
+            ReferencedContainer = "container:DebtCounter.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>
