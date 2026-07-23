@@ -9,7 +9,7 @@ import SwiftUI
 import SwiftData
 
 @main
-struct Debt_CounterApp: App {
+struct DebtCounterApp: App {
     var body: some Scene {
         WindowGroup {
           SwiftUIView()
