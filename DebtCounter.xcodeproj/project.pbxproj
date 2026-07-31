@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXFileReference section */
+		45E1CDEB301CE1C600A0EEBE /* debtcounter.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; name = debtcounter.entitlements; path = DebtCounter/debtcounter.entitlements; sourceTree = "<group>"; };
 		45FB70912EFB45760033437A /* debtcounter.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = debtcounter.app; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
@@ -32,6 +33,7 @@
 		45FB70882EFB45760033437A = {
 			isa = PBXGroup;
 			children = (
+				45E1CDEB301CE1C600A0EEBE /* debtcounter.entitlements */,
 				45FB70932EFB45760033437A /* DebtCounter */,
 				45FB70922EFB45760033437A /* Products */,
 			);
@@ -255,6 +257,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_ENTITLEMENTS = DebtCounter/debtcounter.entitlements;
 				CODE_SIGN_IDENTITY = "Apple Development";
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
@@ -295,6 +298,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_ENTITLEMENTS = DebtCounter/debtcounter.entitlements;
 				CODE_SIGN_IDENTITY = "Apple Development";
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
